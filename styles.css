@@ -1,8 +1,7 @@
 #flexbox-container {
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: wrap;
   align-items: stretch;
-  width: 960px;
 }
 
 div.content {
